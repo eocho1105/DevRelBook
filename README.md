@@ -71,7 +71,7 @@ p.65</br>
 - 키뱅크 캐피탈 마켓(KeyBanc Capital Markets)의 부사장 겸 수석 모자이크 전문가. IBM의 전 테크니컬 에미넌스(eminence) 프로그램 디렉터. 
 #CloudMinds를 만든 사람이자 멘토, 혁신가, 커뮤니티 엔터테이닝 디렉터이며 모든 면에서 멋진 사람. 트위터 @amyhermes. 
 팟캐스트인 ‘Geek Whisperers’에서 만나 알게 되었습니다. 
-관련 에피소드는 링크를 참고하세요. http://geek-whisperers.com/2015/08/bringing-people-together-isnot-marketing-with-amy-hermes-ep-93
+관련 에피소드는 링크를 참고하세요. http://geek-whisperers.com/2015/08/bringing-people-together-is-not-marketing-with-amy-hermes-ep-93
 
 - 다시 말씀드리지만, 이 책 곳곳에서 소개한 여러 도구를 다룰 때와 마찬가지로 두 가지 주의 사항이 있습니다.
 ① 제가 소개한 도구들보다 여러분에게 더 적합한 것이 있을 수 있습니다. 
